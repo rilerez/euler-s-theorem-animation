@@ -1,0 +1,1 @@
+{:uberjar {:aot :all}}
